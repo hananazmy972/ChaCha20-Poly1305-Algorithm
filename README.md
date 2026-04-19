@@ -5,6 +5,11 @@ A visual, interactive desktop application that demonstrates how the **ChaCha20-P
 Built as a **Network Security course project**.
 
 ---
+## Preview
+
+![ChaCha20-Poly1305 Demo](assets/screenshot.png)
+
+---
 
 ## What Is ChaCha20-Poly1305?
 

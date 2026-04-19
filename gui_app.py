@@ -148,9 +148,6 @@ class ChaChaApp(tk.Tk):
                  bg=C_STEEL, fg=C_BG,
                  font=("Georgia", 11)).pack(side="left")
 
-        tk.Label(ih, text="Network Security Project  ",
-                 bg=C_STEEL, fg=C_BG,
-                 font=("Segoe UI", 9)).place(relx=1.0, rely=0.5, anchor="e", x=-8)
 
         # Body — equal columns
         body = tk.Frame(self, bg=C_BG)
